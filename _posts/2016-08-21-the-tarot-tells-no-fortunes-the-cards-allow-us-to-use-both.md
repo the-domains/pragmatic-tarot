@@ -1,7 +1,7 @@
 ---
 description: ''
-dateModified: '2016-08-21T12:30:23.053Z'
-datePublished: '2016-08-21T12:30:40.517Z'
+dateModified: '2016-08-21T12:47:28.473Z'
+datePublished: '2016-08-21T12:47:39.736Z'
 title: >-
   The Tarot tells no fortunes. The cards allow us to use both logical and
   intuitive pattern recognition to aid our understanding of the world around us.
@@ -19,4 +19,4 @@ inNav: false
 _type: MediaObject
 
 ---
-# The Tarot tells no fortunes. The cards allow us to use both logical and intuitive pattern recognition to aid our understanding of the world around us. Change is the only constant, and Tarot is simply a language of change. Don't fear that death card.
+## The Tarot tells no fortunes. The cards allow us to use both logical and intuitive pattern recognition to aid our understanding of the world around us. Change is the only constant, and Tarot is simply a language of change. Don't fear that death card.
