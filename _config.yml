@@ -1,4 +1,3 @@
-layout_spectrum: 0.9330446312669665
 typography_spectrum: 0.028810066170990467
 color:
   brandStrength: 0.6756498634349555
@@ -6,9 +5,66 @@ color:
   saturation: 0.8562535734381527
   rhythmicContrast: 0.3712293254211545
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.9330446312669665
 name: pragmatic tarot
+title: Pragmatic Tarot
+description: Tarot without superstition
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f42e5d89-ca86-477c-8b34-f23057f7f980.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f42e5d89-ca86-477c-8b34-f23057f7f980.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3dd975a-4dbd-4d33-94ef-57ad2d139e92.png">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3dd975a-4dbd-4d33-94ef-57ad2d139e92.png
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+github: true
+url: 'https://pragmatic-tarot.com'
+author:
+  name: Greenman
+  email: greenman@the-organization.com
