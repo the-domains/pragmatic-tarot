@@ -10,10 +10,18 @@ color:
     - '#808080'
     - '#BFBFBF'
     - '#FFFFFF'
+github: true
 layout_spectrum: 0.9330446312669665
+author:
+  name: Greenman
+  email: greenman@the-organization.com
 name: pragmatic tarot
+url: 'http://pragmatictarot.com/'
+navigation:
+  - name: About
+    id: 9a06d6ed-e203-4769-9a30-9219224ea0f0
+    type: content
 title: Pragmatic Tarot
-description: Tarot without superstition
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -23,19 +31,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f42e5d89-ca86-477c-8b34-f23057f7f980.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -47,27 +55,23 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3dd975a-4dbd-4d33-94ef-57ad2d139e92.png
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-github: true
-url: 'http://pragmatictarot.com/'
-author:
-  name: Greenman
-  email: greenman@the-organization.com
+description: Tarot without superstition
 purpose:
   - type: contact
     url: 'mailto:fool@pragmatictarot.com'
