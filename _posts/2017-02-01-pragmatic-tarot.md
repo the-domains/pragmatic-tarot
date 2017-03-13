@@ -5,8 +5,8 @@ description: >-
   pragmatic approach asserts that we simply need to understand one universal
   change process: We need to know how things begin, grow older, end and start
   over.
-dateModified: '2017-03-13T09:19:49.965Z'
-datePublished: '2017-03-13T09:19:50.486Z'
+dateModified: '2017-03-13T09:53:49.597Z'
+datePublished: '2017-03-13T09:53:50.326Z'
 title: A systemic approach to Tarot
 author: []
 publisher: {}
