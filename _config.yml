@@ -68,3 +68,7 @@ url: 'http://pragmatictarot.com/'
 author:
   name: Greenman
   email: greenman@the-organization.com
+purpose:
+  - type: contact
+    url: 'mailto:fool@pragmatictarot.com'
+    label: Contact me
