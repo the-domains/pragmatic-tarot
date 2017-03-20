@@ -4,8 +4,8 @@ description: >-
   has given many people power over the years, but it is a superstition. Perhaps
   some people are able to tell the future, but that would have nothing to do
   with pictures on some pieces of cardboard. 
-dateModified: '2017-03-20T17:25:05.594Z'
-datePublished: '2017-03-20T17:25:06.344Z'
+dateModified: '2017-03-20T17:25:51.608Z'
+datePublished: '2017-03-20T17:25:52.898Z'
 title: The Tarot tells no fortunes.
 author: []
 publisher: {}
@@ -13,11 +13,10 @@ via: {}
 sourcePath: >-
   _posts/2016-08-21-the-tarot-tells-no-fortunes-the-cards-allow-us-to-use-both.md
 inFeed: true
-hasPage: true
+hasPage: false
 starred: false
 datePublishedOriginal: '2017-02-01T22:12:04.007Z'
-url: the-tarot-tells-no-fortunes/index.html
-_type: Article
+_type: Blurb
 
 ---
 # **The Tarot tells no fortunes.**
