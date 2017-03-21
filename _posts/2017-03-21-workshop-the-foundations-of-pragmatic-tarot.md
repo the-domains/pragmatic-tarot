@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-03-21T21:05:32.881Z'
-datePublished: '2017-03-21T21:05:33.356Z'
+dateModified: '2017-03-21T21:32:34.170Z'
+datePublished: '2017-03-21T21:32:35.261Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -59,6 +59,10 @@ There is no need to associate any new age or mystical connotations to the Tarot.
 
 The Tarot is a book that teaches the philosophy of change. In understanding the Tarot, it is possible to see that change is the natural way of the world, and that it's not just a random set of events. In making peace with change, you can make peace with your world.
 
+## Upcoming Workshops
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UF1vgzAM_CuWpe1pLdAPrYKm0972N9JgwCJNUDCU7tcv0FbTXvYS2eec73zHvtMOuFR49r7F0zGZgdOx5BF6uVlSeOVSmjxL05cChCZZacu1yy1VUkQCV0FfCPpgFCYJjeTkHFhobfx6aBNh05L0q0ik4LT9oCi23aa77PCeZpvta6BKkZhWEJZNZx9KCgpThIa4bkTh7hCbxYbC2QfCGF0aun_6LS861OyerP0TeDBj35vgrWVXK9SDeARtrb9K0C4uCeTMTaGEgeYc7nf9SaLyTlaVvrC95V9kR4rH6Tf4DKxtAcu052_Ks003FdDpsoxSMblughT2M3Y3lC_zf3OF6CAqP94f67GNgg" height="500" style=""></iframe>
+
 ## My journey
 
 I discovered Tarot when I was 20 and have kept cards on me ever since. I found the cards because I was looking for some universal structures to stories and myths. The tarot seemed to have some insights on the topic, and when I did a little more reading and exploring, I found something much bigger.
@@ -70,7 +74,3 @@ Over the next 10 years I came to respect that the intuition was an equal part of
 The Tarot has defined my outlook on the world, it has given me tools that I apply in every aspect of my life. The ability to work with change and the unknown is now the foundation of all my professional work.
 
 I love these cards and what they have taught me, and I truly think that learning to read this book will make your life better.
-
-## Upcoming Workshops
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UF1vgzAM_CuWpe1pLdAPrYKm0972N9JgwCJNUDCU7tcv0FbTXvYS2eec73zHvtMOuFR49r7F0zGZgdOx5BF6uVlSeOVSmjxL05cChCZZacu1yy1VUkQCV0FfCPpgFCYJjeTkHFhobfx6aBNh05L0q0ik4LT9oCi23aa77PCeZpvta6BKkZhWEJZNZx9KCgpThIa4bkTh7hCbxYbC2QfCGF0aun_6LS861OyerP0TeDBj35vgrWVXK9SDeARtrb9K0C4uCeTMTaGEgeYc7nf9SaLyTlaVvrC95V9kR4rH6Tf4DKxtAcu052_Ks003FdDpsoxSMblughT2M3Y3lC_zf3OF6CAqP94f67GNgg" height="500" style=""></iframe>
