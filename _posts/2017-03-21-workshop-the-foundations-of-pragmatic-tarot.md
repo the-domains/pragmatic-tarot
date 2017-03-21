@@ -7,20 +7,22 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear. 
-dateModified: '2017-03-21T12:17:31.122Z'
-datePublished: '2017-03-21T12:17:31.993Z'
+dateModified: '2017-03-21T12:18:57.613Z'
+datePublished: '2017-03-21T12:18:58.359Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
 via: {}
 hasPage: true
+sourcePath: _posts/2017-03-21-workshop-the-foundations-of-pragmatic-tarot.md
 starred: false
 datePublishedOriginal: '2017-03-21T12:17:31.993Z'
-sourcePath: _posts/2017-03-21-workshop-the-foundations-of-pragmatic-tarot.md
 url: workshop-the-foundations-of-pragmatic-tarot/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a5defa0f-d362-4e40-9ff3-117d1c1bddfc.jpg)
+
 # Workshop: The foundations of Pragmatic Tarot
 
 Take the first steps, or take a new direction, in this one day introduction to Pragmatic Tarot. The workshop will introduce you to the concepts of the universal pattern, how it applies to Major and Minor Arcana, and take you through the basics of the Celtic Cross layout. The workshop will give you solid foundations, and the ability to continue to explore the cards without fear. 
@@ -28,6 +30,8 @@ Take the first steps, or take a new direction, in this one day introduction to P
 **Amazing, hype free offer: If you get to the end of the day, and you don't feel that it's worked for you, you can have your money back. **
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbe4700-f5e2-4102-99c5-46ef53e32061.jpg)
 
 The one day foundation workshop is available to both Tarot beginners and those with some existing knowledge. 
 
