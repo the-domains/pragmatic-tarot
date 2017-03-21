@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-03-21T21:01:59.794Z'
-datePublished: '2017-03-21T21:02:00.343Z'
+dateModified: '2017-03-21T21:03:32.310Z'
+datePublished: '2017-03-21T21:03:32.495Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
