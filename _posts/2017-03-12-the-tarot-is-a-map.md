@@ -5,8 +5,8 @@ description: >-
   which maps out the way in which one moment becomes the next. The cards
   represent the morning, noon, and night, youth, middle age and death. The cards
   tell the cycle of life.
-dateModified: '2017-03-20T22:07:34.785Z'
-datePublished: '2017-03-20T22:07:35.139Z'
+dateModified: '2017-03-21T12:40:35.095Z'
+datePublished: '2017-03-21T12:40:35.210Z'
 title: The Tarot is a map
 author: []
 publisher: {}
