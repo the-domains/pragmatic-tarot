@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-03-21T12:41:22.717Z'
-datePublished: '2017-03-21T12:41:23.470Z'
+dateModified: '2017-03-21T12:44:13.838Z'
+datePublished: '2017-03-21T12:44:15.039Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -31,6 +31,7 @@ Take the first steps, or take a new direction, in this one day introduction to P
 
 ---
 
+[Book your place][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbe4700-f5e2-4102-99c5-46ef53e32061.jpg)
 
 The one day foundation workshop is available to both Tarot beginners and those with some existing knowledge.
@@ -71,4 +72,10 @@ The Tarot has defined my outlook on the world, it has given me tools that I appl
 
 I love these cards and what they have taught me, and I truly think that learning to read this book will make your life better.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kd1OwzAMhV_FCoIrurYrG6hrijaBxCVvgNzU3aJlSZV67crTk_0BEhI3UWzHx8dfilr30PFoSIpB17zJ0yS5XQDTgSM0em1zQw0vRFnoxuOOoPNKijimnixXXjNNlJvstzFrtSXuotBI3qJ5Jl3LLEse0qfHJJ1md54aSay2LOCkVDlfk5ciEbAhvd6wFNk8BCcbUhx9COi7FhWdH_1cd-jX2l67ZtfEpTPEnfLOGG3XUuCenQA0xg3s0QYRT1aNUrDfU1grPu9VFr9INM5y1OBOmzF_I9NTWA7vYek1mgWcqp3-pDydtocFtFjXYVQg1x4ggdkxdzaUn-r_coWyQFAGu06K1g3kqY6qMaJKXM0oZ5zP4Wb5skpW84tETcp5ZO1sDtZZCkIcRlLA8VEZtNvA6whcbJjbPI6HYZj8-TJRvp8nQjXC63e1iDFgCTgu5xekJLlC" height="244" style=""></iframe>
+## Upcoming Workshops
+
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kdtOwzAMhl_FMoIrunYbJ3XNEAgkLnkD5KbuFjVLqtRbV56edAcQQuImiu349-8vRdeSA1MpLL1vcFmkY2JZVGYHnQyWFfamknU-zbLLBQjvJSFrVi63XMsiNpg60IahC1phmvKOnZTBCE-0n2ybVIxuWLokNnJwZB85DpvPs5vpw302nc2vAteKRTeCcFAqfag4KMwQ1mxWa1E4v4vBwYbC0QfCLrrUfHz0c91QWBl37ro9J06dMe508NYat1JIW_EIZK3vJZCLIoGdHhRK2PLI4bjXLxK1d5LUtDF2yN_Y7jguR9fwFAzZBRyqnfnkfDpr9wtoqariqEiu3UMGt2PuaCg_1P_lCsuCQFvqOoWt7zlwlZRDwiWezWhvfcjh4unlOXu-O0lUrH0gMd7l4LzjKCRxJEccH6Ul10ReI3Bci7R5mvZ9P_nzZbh8P06EcoDX72qRUsQScZzOL1QTwOI" height="244" style=""></iframe>
+
+
+
+[0]: http://pragmatictarot.com/workshop-the-foundations-of-pragmatic-tarot#book
