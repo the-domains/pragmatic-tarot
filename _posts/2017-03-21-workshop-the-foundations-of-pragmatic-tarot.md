@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-03-21T21:03:32.310Z'
-datePublished: '2017-03-21T21:03:32.495Z'
+dateModified: '2017-03-21T21:04:11.057Z'
+datePublished: '2017-03-21T21:04:11.482Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -73,4 +73,4 @@ I love these cards and what they have taught me, and I truly think that learning
 
 ## Upcoming Workshops
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UNFugzAM_BXL0va0FijrOkHTaW_7jTQYapEmKBhK9_ULtNW0l71E9jnnO9--77QDrhQevW_xsE9m4LCveIRerpYUXriSU5Gl6VMJQpOstOXGFZZqKSOB66DPBH0wCpOERnJyDCy0Nn49tImwaUn6VSRScNp-UBTL8_Q1e9-l2SZ_DlQrEtMKwrLp6ENFQWGKcCJuTqIwf4vNYkPh7ANhjC4N3T79lmcdGnYP1vYB3Jmx703w1rJrFOpBPIK21l8kaBeXBHLmqlDCQHMOt7v-JFF7J6tan9leiy-yI8Xj9At8Bta2hGXa8zcV2aabSuh0VUWpmFw3QQrbGbsZKpb5v7lCdBCV7-8P6LCNfw" height="500" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UF1vgzAM_CuWpe1pLdAPrYKm0972N9JgwCJNUDCU7tcv0FbTXvYS2eec73zHvtMOuFR49r7F0zGZgdOx5BF6uVlSeOVSmjxL05cChCZZacu1yy1VUkQCV0FfCPpgFCYJjeTkHFhobfx6aBNh05L0q0ik4LT9oCi23aa77PCeZpvta6BKkZhWEJZNZx9KCgpThIa4bkTh7hCbxYbC2QfCGF0aun_6LS861OyerP0TeDBj35vgrWVXK9SDeARtrb9K0C4uCeTMTaGEgeYc7nf9SaLyTlaVvrC95V9kR4rH6Tf4DKxtAcu052_Ks003FdDpsoxSMblughT2M3Y3lC_zf3OF6CAqP94f67GNgg" height="500" style=""></iframe>
