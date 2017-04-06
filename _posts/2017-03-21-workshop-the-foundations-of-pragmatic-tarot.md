@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-03-21T22:20:44.192Z'
-datePublished: '2017-03-21T22:20:44.753Z'
+dateModified: '2017-04-06T18:09:00.864Z'
+datePublished: '2017-04-06T18:09:02.239Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -27,7 +27,7 @@ _type: Article
 
 Take the first steps, or take a new direction, in this one day introduction to Pragmatic Tarot. The workshop will introduce you to the concepts of the universal pattern, how it applies to Major and Minor Arcana, and take you through the basics of the Celtic Cross layout. The workshop will give you solid foundations, and the ability to continue to explore the cards without fear.
 
-**Amazing, hype free offer: If you get to the end of the day, and you don't feel that it's worked for you, you can have your money back.**
+**Pay what you feel it's worth. I ask for £15 to cover the cost of lunch and snacks, and then, when the day is done, you can choose your price. **
 
 ---
 
