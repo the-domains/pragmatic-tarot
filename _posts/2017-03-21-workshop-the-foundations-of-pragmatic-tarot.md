@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-04-10T09:48:23.793Z'
-datePublished: '2017-04-10T09:48:25.246Z'
+dateModified: '2017-04-10T10:05:39.922Z'
+datePublished: '2017-04-10T10:05:41.148Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -56,7 +56,7 @@ The Tarot is a book that teaches the philosophy of change. In understanding the 
 
 ## Upcoming Workshops
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UNFOwzAM_BXLEjwx2m5MTO0yxBu_kaVuZzVLKtfrNr6etBsgXniJ7HPOd77t0NsAXBvcx9jhbptNwG5b8wiDXj0ZPHOth7LI84cKlC66sJ7bUHpqtEoEbsQeCQZxBrOMRgq6F1Z6dvH51GXKriMdFolIEqx_oyS2WuUvxeY1L5arR6HGkLpOEeZN-yg1icEc4UDcHtTgepOa2YbByQfCmFw6un36LY9WWg4_rG_gzkz94CR6z6E1aE8aEaz38axiQ1oiFNzVoMqJphxud_1JoolBF409sr-WH-RHSsfZJ3gXtr6CeTrwJ5XFsr9U0Nu6TlIpuf4COawn7GaonOf_5grJQVK-v1_sso2D" height="600" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UNFOwzAM_BXLEjwx2m5MTO0yxBu_kaVuZzVLKtfrNr6etBsgXniJ7HPOd77t0NsAXBvcx9jhbptNwG5b8wiDXj0ZPHOth7LI84cKlC66sJ7bUHpqtEoEbsQeCQZxBrOMRgq6F1Z6dvH51GXKriMdFolIEqx_oyS2WuUvxeY1L5arR6HGkLpOEeZN-yg1icEc4UDcHtTgepOa2YbByQfCmFw6un36LY9WWg4_rG_gzkz94CR6z6E1aE8aEaz38axiQ1oiFNzVoMqJphxud_1JoolBF409sr-WH-RHSsfZJ3gXtr6CeTrwJ5XFsr9U0Nu6TlIpuf4COawn7GaonOf_5grJQVK-v1_sso2D" height="300" style=""></iframe>
 
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cbe728-5b53-400b-869d-68c18d08cf3f.jpg)
 
