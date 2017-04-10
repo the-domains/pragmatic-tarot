@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-04-06T18:09:00.864Z'
-datePublished: '2017-04-06T18:09:02.239Z'
+dateModified: '2017-04-10T09:48:23.793Z'
+datePublished: '2017-04-10T09:48:25.246Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -26,14 +26,9 @@ _type: Article
 # Workshop: The foundations of Pragmatic Tarot
 
 Take the first steps, or take a new direction, in this one day introduction to Pragmatic Tarot. The workshop will introduce you to the concepts of the universal pattern, how it applies to Major and Minor Arcana, and take you through the basics of the Celtic Cross layout. The workshop will give you solid foundations, and the ability to continue to explore the cards without fear.
-
-**Pay what you feel it's worth. I ask for £15 to cover the cost of lunch and snacks, and then, when the day is done, you can choose your price. **
-
----
-
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbe4700-f5e2-4102-99c5-46ef53e32061.jpg)
 
-The one day foundation workshop is available to both Tarot beginners and those with some existing knowledge.
+The one day intensive, foundation workshop is available to both Tarot beginners and those with existing knowledge. The pragmatic system can enhance an existing Tarot practice by providing a consistent framework for intuitive card reading. 
 
 ## Contents
 
@@ -45,7 +40,7 @@ The one day foundation workshop is available to both Tarot beginners and those w
 * Performing readings with the Celtic Cross
 * How to keep learning the cards
 
-You will need to have your own set of Rider Waite cards, and a notebook. If you don't have them already, select the right ticket option and I'll provide them.
+You will need to have your own set of cards, and a notebook. If you don't have them already, select the right ticket option and I'll provide them.
 
 ## Learn how to learn the Tarot
 
