@@ -12,15 +12,24 @@ color:
     - '#FFFFFF'
 github: true
 layout_spectrum: 0.9330446312669665
+analytics:
+  google: UA-94091815-1
 author:
   name: Greenman
   email: greenman@the-organization.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4890e390-15bc-4c92-8008-022b67c9a2e7.png
 name: Pragmatic Tarot
 url: 'http://pragmatictarot.com/'
 navigation:
   - name: About
     id: 9a06d6ed-e203-4769-9a30-9219224ea0f0
     type: content
+  - name: Pragmatic Tarot Readings
+    id: ad7585a0-4c7a-4c3b-8302-fb9f67c10c8a
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e25e84f7-9376-46d1-95f8-3e22890fb5fc.png
 title: Pragmatic Tarot
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -79,9 +88,3 @@ purpose:
   - type: internal
     label: Upcoming Workshops
     item: 9605e273-62dd-4190-976c-d0b5f7c037b7
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e25e84f7-9376-46d1-95f8-3e22890fb5fc.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4890e390-15bc-4c92-8008-022b67c9a2e7.png
-analytics:
-  google: UA-94091815-1
