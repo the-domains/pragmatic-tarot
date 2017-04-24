@@ -28,6 +28,9 @@ navigation:
   - name: Pragmatic Tarot Readings
     id: ad7585a0-4c7a-4c3b-8302-fb9f67c10c8a
     type: content
+  - name: Contact
+    id: 1d6f94dd-51c0-415f-bcff-94614d557ed4
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e25e84f7-9376-46d1-95f8-3e22890fb5fc.png
 title: Pragmatic Tarot
