@@ -7,8 +7,8 @@ description: >-
   through the basics of the Celtic Cross layout. The workshop will give you
   solid foundations, and the ability to continue to explore the cards without
   fear.
-dateModified: '2017-04-24T09:59:25.403Z'
-datePublished: '2017-04-24T09:59:26.031Z'
+dateModified: '2017-04-24T10:02:23.521Z'
+datePublished: '2017-04-24T10:02:24.507Z'
 title: 'Workshop: The foundations of Pragmatic Tarot'
 author: []
 publisher: {}
@@ -28,7 +28,7 @@ _type: Article
 Take the first steps, or take a new direction, in this one day introduction to Pragmatic Tarot. The workshop will introduce you to the concepts of the universal pattern, how it applies to Major and Minor Arcana, and take you through the basics of the Celtic Cross layout. The workshop will give you solid foundations, and the ability to continue to explore the cards without fear.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6fbe4700-f5e2-4102-99c5-46ef53e32061.jpg)
 
-The one day intensive, foundation workshop is available to both Tarot beginners and those with existing knowledge. The pragmatic system can enhance an existing Tarot practice by providing a consistent framework for intuitive card reading. 
+The one day intensive, foundation workshop is available to both Tarot beginners and those with existing knowledge. The pragmatic system can enhance an existing Tarot practice by providing a consistent framework for intuitive card reading.
 
 ## Contents
 
@@ -55,9 +55,7 @@ There is no need to associate any new age or mystical connotations to the Tarot.
 The Tarot is a book that teaches the philosophy of change. In understanding the Tarot, it is possible to see that change is the natural way of the world, and that it's not just a random set of events. In making peace with change, you can make peace with your world.
 
 ## Upcoming Workshops
-
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9UNFOwzAM_BXLEjwx2m5MTO0yxBu_kaVuZzVLKtfrNr6etBsgXniJ7HPOd77t0NsAXBvcx9jhbptNwG5b8wiDXj0ZPHOth7LI84cKlC66sJ7bUHpqtEoEbsQeCQZxBrOMRgq6F1Z6dvH51GXKriMdFolIEqx_oyS2WuUvxeY1L5arR6HGkLpOEeZN-yg1icEc4UDcHtTgepOa2YbByQfCmFw6un36LY9WWg4_rG_gzkz94CR6z6E1aE8aEaz38axiQ1oiFNzVoMqJphxud_1JoolBF409sr-WH-RHSsfZJ3gXtr6CeTrwJ5XFsr9U0Nu6TlIpuf4COawn7GaonOf_5grJQVK-v1_sso2D" height="300" style=""></iframe>
-
+[Book a place][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b5cbe728-5b53-400b-869d-68c18d08cf3f.jpg)
 
 ## My journey
@@ -71,3 +69,5 @@ Over the next 10 years I came to respect that the intuition was an equal part of
 The Tarot has defined my outlook on the world, it has given me tools that I apply in every aspect of my life. The ability to work with change and the unknown is now the foundation of all my professional work.
 
 I love these cards and what they have taught me, and I truly think that learning to read this book will make your life better.
+
+[0]: https://www.eventbrite.co.uk/e/pragmatic-tarot-foundations-tickets-33041870123
