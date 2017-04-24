@@ -82,9 +82,9 @@ content:
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Tarot without superstition
 purpose:
-  - type: contact
-    url: 'mailto:fool@pragmatictarot.com'
-    label: Say hello
+  - type: internal
+    label: Book a reading
+    item: ad7585a0-4c7a-4c3b-8302-fb9f67c10c8a
   - type: internal
     label: Book a reading
     item: ad7585a0-4c7a-4c3b-8302-fb9f67c10c8a
