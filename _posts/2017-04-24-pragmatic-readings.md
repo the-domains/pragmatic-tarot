@@ -1,20 +1,20 @@
 ---
-inFeed: true
+inFeed: false
 description: >-
   I don’t do “tall dark stranger” kind of readings. To me that’s generally
   $%&*#! Although I am happy to accept that some  people are able to “predict”
   things from the cards, I really don’t think it matters. 
-dateModified: '2017-04-24T09:48:09.511Z'
-datePublished: '2017-04-24T09:48:10.167Z'
+dateModified: '2017-04-24T09:48:28.953Z'
+datePublished: '2017-04-24T09:48:29.405Z'
 title: Pragmatic Readings
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJw9j8sKwjAURH-lZN8kIiqIUdxUCxUVwS4lbW6TiDH1Nlr16327PMPMMDOyFUoHUYOlICaEuhkypnzZUO29PgAtvWOVR9cwxYB1kmlar7NNdZphzM0gljyP00UnrK6Lcm6gKvZ51k9Nve0u23t-xV0Sy9tszS4W2lfNBFwBSoESAc9AotaqYAQZ9DmJDFhtgiA9_oT3rMKjAhTkyU6itsef5S9885yMMy-VPWpK6Yh9To0ft_hKiA
+sourcePath: _posts/2017-04-24-pragmatic-readings.md
+hasPage: true
 starred: false
 datePublishedOriginal: '2017-04-24T09:48:10.167Z'
-sourcePath: _posts/2017-04-24-pragmatic-readings.md
+url: pragmatic-readings/index.html
 _type: MediaObject
 
 ---
