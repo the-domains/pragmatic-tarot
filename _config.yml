@@ -33,7 +33,7 @@ navigation:
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e25e84f7-9376-46d1-95f8-3e22890fb5fc.png
-title: Pragmatic Tarot
+title: Tarot without supersition
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
