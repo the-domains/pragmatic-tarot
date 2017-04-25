@@ -4,8 +4,8 @@ description: >-
   I don’t do “tall dark stranger” kind of readings. To me that’s generally
   $%&*#! Although I am happy to accept that some people are able to “predict”
   things from the cards, I really don’t think it matters.
-dateModified: '2017-04-24T09:57:33.540Z'
-datePublished: '2017-04-24T09:57:34.094Z'
+dateModified: '2017-04-25T17:46:06.013Z'
+datePublished: '2017-04-25T17:46:06.671Z'
 title: Pragmatic Readings
 author: []
 publisher: {}
