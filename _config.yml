@@ -25,9 +25,6 @@ navigation:
   - name: About
     id: 9a06d6ed-e203-4769-9a30-9219224ea0f0
     type: content
-  - name: Pragmatic Tarot Readings
-    id: ad7585a0-4c7a-4c3b-8302-fb9f67c10c8a
-    type: content
   - name: Contact
     id: 1d6f94dd-51c0-415f-bcff-94614d557ed4
     type: content
